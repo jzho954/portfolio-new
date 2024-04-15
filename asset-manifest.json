@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/portfolio-new/static/css/main.5ceeb05f.css",
+    "main.js": "/portfolio-new/static/js/main.24eaec02.js",
+    "static/js/453.acca0757.chunk.js": "/portfolio-new/static/js/453.acca0757.chunk.js",
+    "static/media/colombia-bg.jpg": "/portfolio-new/static/media/colombia-bg.bf64cc59c244a1cf9c06.jpg",
+    "static/media/mexico.jpg": "/portfolio-new/static/media/mexico.28f9d6f0e83336276007.jpg",
+    "static/media/color-sharp2.png": "/portfolio-new/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/soon.png": "/portfolio-new/static/media/soon.b6b56e27ce17db60e962.png",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio-new/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio-new/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio-new/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/portfolio-new/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img3.png": "/portfolio-new/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/revicons.eot": "/portfolio-new/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-new/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/react2.svg": "/portfolio-new/static/media/react2.598d90dd4f36234e376cbc6ccd571550.svg",
+    "static/media/revicons.woff": "/portfolio-new/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/taco.svg": "/portfolio-new/static/media/taco.40ea99e6865d35369d0506d0cb21f2da.svg",
+    "static/media/camp.svg": "/portfolio-new/static/media/camp.60ee4ed58f3b4161c18a1ffc97534a37.svg",
+    "static/media/logo.svg": "/portfolio-new/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/cSharp.svg": "/portfolio-new/static/media/cSharp.e0b9165a2b29b2a60e02786832b42626.svg",
+    "static/media/java.svg": "/portfolio-new/static/media/java.ea37baa6a1d1a1d45345798657d7d092.svg",
+    "static/media/python.svg": "/portfolio-new/static/media/python.7658fc5b493f0fa4979b28893c05b15b.svg",
+    "static/media/nav-icon3.svg": "/portfolio-new/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/portfolio-new/static/media/nav-icon4.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/portfolio-new/index.html",
+    "static/media/nav-icon1.svg": "/portfolio-new/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/js.svg": "/portfolio-new/static/media/js.c2d463fde72a01350f2e8cdd7797b7ba.svg",
+    "static/media/colombia-flag.svg": "/portfolio-new/static/media/colombia-flag.7dc889a8da942e38b770805c7cd013c5.svg",
+    "static/media/arrow2.svg": "/portfolio-new/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/portfolio-new/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "main.5ceeb05f.css.map": "/portfolio-new/static/css/main.5ceeb05f.css.map",
+    "main.24eaec02.js.map": "/portfolio-new/static/js/main.24eaec02.js.map",
+    "453.acca0757.chunk.js.map": "/portfolio-new/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ceeb05f.css",
+    "static/js/main.24eaec02.js"
+  ]
+}
