@@ -25,6 +25,7 @@ const EmailMe = () => {
       );
   };
   return (
+    <section className="email-me"id="email-me"> 
     <div className="form-container">
       <h1>Contact Me</h1>
       
@@ -53,6 +54,7 @@ const EmailMe = () => {
         </TrackVisibility>
       </div>
     </div>
+    </section>
   );
 };
 

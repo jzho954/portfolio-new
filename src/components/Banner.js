@@ -4,6 +4,8 @@ import headerImg from "../assets/img/taco.svg";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 
 import TrackVisibility from "react-on-screen";
+import { HashLink } from "react-router-hash-link";
+import { BrowserRouter as Router } from "react-router-dom";
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -65,7 +67,8 @@ export const Banner = () => {
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>
-                    {`Hi! I'm Jamie, a  `}{""}
+                    {`Hi! I'm Jamie, a  `}
+                    {""}
                     <span
                       className="txt-rotate"
                       dataPeriod="1000"
@@ -81,9 +84,15 @@ export const Banner = () => {
                     printer took a galley of type and scrambled it to make a
                     type specimen book.
                   </p>
-                  <button onClick={() => console.log("connect")}>
-                    Let’s Connect <ArrowRightCircle size={25} />
-                  </button>
+
+                  <a
+                    href="#email-me"
+                    style={{ textDecoration: "none", color: "inherit" }}
+                  >
+                    <button>
+                      Let’s Connect <ArrowRightCircle size={25} />
+                    </button>
+                  </a>
                 </div>
               )}
             </TrackVisibility>
