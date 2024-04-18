@@ -5,8 +5,7 @@ import skill4 from "../assets/img/js.svg";
 import skill5 from "../assets/img/java.svg";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-import arrow1 from "../assets/img/arrow1.svg";
-import arrow2 from "../assets/img/arrow2.svg";
+
 import colorSharp from "../assets/img/mexico.jpg";
 
 export const Skills = () => {
