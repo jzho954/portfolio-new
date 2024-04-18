@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-new/static/css/main.5ceeb05f.css",
-    "main.js": "/portfolio-new/static/js/main.1335acc1.js",
+    "main.css": "/portfolio-new/static/css/main.6c55b367.css",
+    "main.js": "/portfolio-new/static/js/main.93b3b140.js",
     "static/js/453.acca0757.chunk.js": "/portfolio-new/static/js/453.acca0757.chunk.js",
     "static/media/travel-website.PNG": "/portfolio-new/static/media/travel-website.3facb63d465129273e62.PNG",
     "static/media/colombia-bg.jpg": "/portfolio-new/static/media/colombia-bg.bf64cc59c244a1cf9c06.jpg",
     "static/media/mexico.jpg": "/portfolio-new/static/media/mexico.28f9d6f0e83336276007.jpg",
     "static/media/color-sharp2.png": "/portfolio-new/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/soon.png": "/portfolio-new/static/media/soon.b6b56e27ce17db60e962.png",
+    "static/media/pythonProject.png": "/portfolio-new/static/media/pythonProject.a341321c61dae106c5da.png",
     "static/media/CentraNo2-Bold.ttf": "/portfolio-new/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/portfolio-new/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/portfolio-new/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/project-img3.png": "/portfolio-new/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/revicons.eot": "/portfolio-new/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/portfolio-new/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/react2.svg": "/portfolio-new/static/media/react2.598d90dd4f36234e376cbc6ccd571550.svg",
@@ -28,12 +28,12 @@
     "static/media/nav-icon1.svg": "/portfolio-new/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/js.svg": "/portfolio-new/static/media/js.c2d463fde72a01350f2e8cdd7797b7ba.svg",
     "static/media/colombia-flag.svg": "/portfolio-new/static/media/colombia-flag.7dc889a8da942e38b770805c7cd013c5.svg",
-    "main.5ceeb05f.css.map": "/portfolio-new/static/css/main.5ceeb05f.css.map",
-    "main.1335acc1.js.map": "/portfolio-new/static/js/main.1335acc1.js.map",
+    "main.6c55b367.css.map": "/portfolio-new/static/css/main.6c55b367.css.map",
+    "main.93b3b140.js.map": "/portfolio-new/static/js/main.93b3b140.js.map",
     "453.acca0757.chunk.js.map": "/portfolio-new/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ceeb05f.css",
-    "static/js/main.1335acc1.js"
+    "static/css/main.6c55b367.css",
+    "static/js/main.93b3b140.js"
   ]
 }
