@@ -2,10 +2,11 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/travel-website.PNG";
 import projImg2 from "../assets/img/soon.png";
-import projImg3 from "../assets/img/project-img3.png";
+import projImg3 from "../assets/img/pythonProject.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
+import { Link } from "react-bootstrap-icons";
 
 export const Projects = () => {
   const projects = [
@@ -15,9 +16,9 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "In development",
-      description: "Still in the works",
-      imgUrl: projImg2,
+      title: "Python Projects",
+      description: "Bunch of different python projects I have worked on in my spare time. Ranging from youtube video downloaders to currency converters",
+      imgUrl: projImg3,
     },
     {
       title: "In development",
@@ -66,12 +67,20 @@ export const Projects = () => {
                         <Row className="justify-content-center">
                             
                         <ProjectCard {...projects[0]} />
+                  
                         </Row>
+                        <div className="link-container">
+                          <a className="website-link"href="https://jzho954.github.io/travel/" target="_blank">See it here!</a> 
+                        </div>
+                        
                       </Tab.Pane>
                       <Tab.Pane eventKey="second">
                       <Row className="justify-content-center">
                         <ProjectCard {...projects[1]} />
                         </Row>
+                        <div className="link-container">
+                          <a className="website-link"href="https://github.com/jzho954/python_projects" target="_blank">See it here!</a> 
+                        </div>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
                       <Row className="justify-content-center">

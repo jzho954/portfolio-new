@@ -498,6 +498,25 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   right: 0;
   z-index: -4;
 }
+.link-container {
+  display: flex;
+  justify-content: center; 
+}
+.website-link{
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 40px; 
+  background-color: #000;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+.website-link:hover {
+  background-color: #FCD116;
+ 
+}
 
 /************ Contact Css ************/
 .contact {
@@ -687,7 +706,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.3s ease-in-out;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
   .content-container {
     flex-direction: column; /* Stack the form and image vertically on small screens */
   }
@@ -707,4 +726,5 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .proj-imgbx {
     width: 100%; /* Adjust width for smaller screens */
   }
+  
 }
