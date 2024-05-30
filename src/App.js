@@ -15,7 +15,6 @@ function App() {
       <Banner />
       <Skills />
       <Projects />
-      
       <EmailMe />
       <Footer />
     </div>
