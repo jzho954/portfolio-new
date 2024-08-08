@@ -36,5 +36,30 @@ This portfolio website is built using modern web development technologies, inclu
 - **React**
 - **BootStrap**
 
+## Running the Project
+To run this project locally, you need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine. Follow these steps to get started:
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/jzho954/portfolio-new.git
+    ```
+
+2. Navigate to the project directory:
+    ```sh
+    cd portfolio-new
+    ```
+
+3. Install the dependencies:
+    ```sh
+    npm install
+    ```
+
+4. Start the development server:
+    ```sh
+    npm start
+    ```
+
+5. Open your browser and go to `http://localhost:3000` to view the website.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
