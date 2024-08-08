@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site is a showcase of my projects, skills, and experiences, as well as a way for you to get in touch with me.
 
-![Portfolio Screenshot](./portfolio.png)
+![Portfolio Screenshot](./portfolio.PNG)
 
 ## Table of Contents
 1. [About Me](#about-me)
