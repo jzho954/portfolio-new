@@ -1,7 +1,7 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/travel-website.PNG";
-import projImg2 from "../assets/img/soon.png";
+import projImg2 from "../assets/img/health star.PNG";
 import projImg3 from "../assets/img/pythonProject.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import "animate.css";
@@ -21,8 +21,8 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
     {
-      title: "In development",
-      description: "Still in the works",
+      title: "Health Star Calculator",
+      description: "Worked as a front end dev with a team to create a health star calculator for a client. Used React for the front end and Node.js for the backend. The project was a success and the client was very happy with the final product.",
       imgUrl: projImg2,
     }
   ];
@@ -86,6 +86,9 @@ export const Projects = () => {
                       <Row className="justify-content-center">
                       <ProjectCard {...projects[2]} />
                       </Row>
+                      <div className="link-container">
+                          <a className="website-link"href="https://www.healthstarcalcnz.online/" target="_blank">See it here!</a> 
+                        </div>
                       </Tab.Pane>
                     </Tab.Content>
                   </Tab.Container>
