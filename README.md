@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-Welcome to my personal portfolio website! This site is a showcase of my projects, skills, and experiences, as well as a way for you to get in touch with me.
+Welcome to my personal portfolio website! This site is a showcase of my projects, skills, and experiences, as well as a way for you to get in touch with me. 
 
 ![Portfolio Screenshot](./portfolio.PNG)
 
