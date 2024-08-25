@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-new/static/css/main.6c55b367.css",
-    "main.js": "/portfolio-new/static/js/main.c82a6f33.js",
+    "main.js": "/portfolio-new/static/js/main.c1d266db.js",
     "static/js/453.acca0757.chunk.js": "/portfolio-new/static/js/453.acca0757.chunk.js",
     "static/media/travel-website.PNG": "/portfolio-new/static/media/travel-website.3facb63d465129273e62.PNG",
     "static/media/colombia-bg.jpg": "/portfolio-new/static/media/colombia-bg.bf64cc59c244a1cf9c06.jpg",
@@ -29,11 +29,11 @@
     "static/media/js.svg": "/portfolio-new/static/media/js.c2d463fde72a01350f2e8cdd7797b7ba.svg",
     "static/media/colombia-flag.svg": "/portfolio-new/static/media/colombia-flag.7dc889a8da942e38b770805c7cd013c5.svg",
     "main.6c55b367.css.map": "/portfolio-new/static/css/main.6c55b367.css.map",
-    "main.c82a6f33.js.map": "/portfolio-new/static/js/main.c82a6f33.js.map",
+    "main.c1d266db.js.map": "/portfolio-new/static/js/main.c1d266db.js.map",
     "453.acca0757.chunk.js.map": "/portfolio-new/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c55b367.css",
-    "static/js/main.c82a6f33.js"
+    "static/js/main.c1d266db.js"
   ]
 }
