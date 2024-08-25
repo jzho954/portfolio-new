@@ -16,8 +16,8 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Python Projects",
-      description: "Bunch of different python projects I have worked on in my spare time. Ranging from youtube video downloaders to currency converters",
+      title: "Trademe Scraper",
+      description: "Takes cars off trademe website and puts them into a csv file from a specified search. Used Python and Selenium to scrape the website and then used pandas to put the data into a csv file.",
       imgUrl: projImg3,
     },
     {
@@ -79,7 +79,7 @@ export const Projects = () => {
                         <ProjectCard {...projects[1]} />
                         </Row>
                         <div className="link-container">
-                          <a className="website-link"href="https://github.com/jzho954/python_projects" target="_blank">See it here!</a> 
+                          <a className="website-link"href="https://github.com/jzho954/car-scraper" target="_blank">See it here!</a> 
                         </div>
                       </Tab.Pane>
                       <Tab.Pane eventKey="third">
